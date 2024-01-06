@@ -1,5 +1,5 @@
 # DataAnalystPortfolio
-Portfolio for future Data Analyst Job
+SQL Data analysis
 
 The dataset is taken directly from kaggle: 
 
